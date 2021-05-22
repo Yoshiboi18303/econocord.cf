@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500;600;700&family=Teko:wght@400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+    background: #24272E;
+}
+span {
+    padding: 10px;
+}
+span > h1 {
+    color: #7289DA;
+    font-family: 'Roboto Mono', monospace;
+}
+span > p {
+    color: #4E5D94;
+    font-family: 'Teko', sans-serif;
+    font-size: 42px;
+}
