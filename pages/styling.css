@@ -19,3 +19,20 @@ span > p {
     font-family: 'Teko', sans-serif;
     font-size: 42px;
 }
+header {
+    background: white;
+}
+header > h1 {
+  color: #2CE013;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+div > h1 {
+  color: #00FF02;
+  font-family: 'Roboto Mono', monospace;
+}
+div > p {
+  font-family: 'Teko', sans-serif;
+  font-size: 40px;
+  color: #7289DA;
+}
